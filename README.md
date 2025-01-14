@@ -3,6 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo Pedro De Almeida Peixoto, tenho 18 anos e sou natural de Minas Gerais. Concluí o ensino médio no EEAS , com o curso técnico em informática. Atualmente, estou cursando Engenharia de Software na Unileste. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu github "[Peixotim](https://github.com/Peixotim)", onde posto meus projetos e invenções malucas                                                                                                                               
+    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/peixotim/)
     [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/peixotimz)
     </a> 
     <a href="https://github.com/Peixotim?tab=repositories&sort=stargazers">
@@ -19,7 +20,6 @@ Me chamo Pedro De Almeida Peixoto, tenho 18 anos e sou natural de Minas Gerais. 
             src="https://custom-icon-badges.demolab.com/github/followers/Peixotim?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/peixotim/)
 </p>
 
 ---
