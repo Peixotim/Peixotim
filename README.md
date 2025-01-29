@@ -2,7 +2,33 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Pedro De Almeida Peixoto, tenho 18 anos e sou natural de Minas Gerais. Concluí o ensino médio no EEAS , com o curso técnico em informática. Atualmente, estou cursando Engenharia de Software na Unileste. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu github "[Peixotim](https://github.com/Peixotim)", onde posto meus projetos e invenções malucas                                                                                                                               
+Aqui está uma versão otimizada da sua biografia para o GitHub, tornando-a mais envolvente e profissional:  
+
+---  
+
+### 👋 Olá, sou Pedro Peixoto!  
+
+💻 **Engenheiro de Software em formação** | 🎯 **Apaixonado por tecnologia e inovação**  
+
+Sou **Pedro De Almeida Peixoto**, mineiro de 18 anos, formado em **Técnico em Informática** pelo EEAS e atualmente cursando **Engenharia de Software** na Unileste.  
+
+🚀 Desde os 16 anos, mergulho de cabeça no mundo da programação, sempre buscando aprender, criar e compartilhar conhecimento. No meu GitHub, você encontrará desde projetos sólidos até invenções malucas—porque inovar faz parte da jornada!  
+
+🔧 **Tecnologias e interesses:**  
+- Desenvolvimento de software e automação  
+- Criação de **scripts personalizados para jogos** (Minecraft, API Custom NPCs)  
+- Soluções criativas e otimização de código  
+- Exploração de novas tecnologias e boas práticas  
+
+📌 **Meu objetivo:** Evoluir constantemente e contribuir para projetos desafiadores que fazem a diferença!  
+
+💡 Quer trocar ideias ou colaborar em um projeto? Vamos conversar!  
+
+🔗 **GitHub:** [Peixotim](https://github.com/Peixotim)  
+
+---
+
+Essa versão destaca sua trajetória de forma profissional, dinâmica e convidativa. O que acha? 😊                                                                                                                               
     [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0096FF?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/peixotim/)
     [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/peixotohub)
     </a> 
