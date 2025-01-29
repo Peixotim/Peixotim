@@ -2,8 +2,6 @@
 
 **`Desenvolvedor FullStack`**
 
-Aqui está uma versão otimizada da sua biografia para o GitHub, tornando-a mais envolvente e profissional:  
-
 --
 
 ### 👋 Olá, sou Pedro Peixoto!  
