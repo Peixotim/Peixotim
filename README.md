@@ -4,7 +4,7 @@
 
 Aqui está uma versão otimizada da sua biografia para o GitHub, tornando-a mais envolvente e profissional:  
 
----  
+--
 
 ### 👋 Olá, sou Pedro Peixoto!  
 
@@ -26,9 +26,7 @@ Sou **Pedro De Almeida Peixoto**, mineiro de 18 anos, formado em **Técnico em I
 
 🔗 **GitHub:** [Peixotim](https://github.com/Peixotim)  
 
----
-
-Essa versão destaca sua trajetória de forma profissional, dinâmica e convidativa. O que acha? 😊                                                                                                                               
+--
     [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0096FF?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/peixotim/)
     [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/peixotohub)
     </a> 
