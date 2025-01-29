@@ -2,15 +2,14 @@
 
 **`Desenvolvedor FullStack`**
 
---
 
 ### 👋 Olá, sou Pedro Peixoto!  
 
 💻 **Engenheiro de Software em formação** | 🎯 **Apaixonado por tecnologia e inovação**  
 
-Sou **Pedro De Almeida Peixoto**, mineiro de 18 anos, formado em **Técnico em Informática** pelo EEAS e atualmente cursando **Engenharia de Software** na Unileste.  
+Sou **Pedro De Almeida Peixoto**, mineiro de 18 anos, formado em **Técnico em Informática** pela EEAS e atualmente cursando **Engenharia de Software** na Unileste.  
 
-🚀 Desde os 16 anos, mergulho de cabeça no mundo da programação, sempre buscando aprender, criar e compartilhar conhecimento. No meu GitHub, você encontrará desde projetos sólidos até invenções malucas—porque inovar faz parte da jornada!  
+🚀 Desde os 16 anos, mergulho de cabeça no mundo da programação, sempre buscando aprender, criar e compartilhar conhecimento. No meu GitHub, você encontrará desde projetos sólidos até invenções malucas , porque inovar faz parte da jornada!  
 
 🔧 **Tecnologias e interesses:**  
 - Desenvolvimento de software e automação  
@@ -23,8 +22,6 @@ Sou **Pedro De Almeida Peixoto**, mineiro de 18 anos, formado em **Técnico em I
 💡 Quer trocar ideias ou colaborar em um projeto? Vamos conversar!  
 
 🔗 **GitHub:** [Peixotim](https://github.com/Peixotim)  
-
---
     [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0096FF?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/peixotim/)
     [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/peixotohub)
     </a> 
