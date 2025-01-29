@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Pedro Peixoto
+# 👨🏻‍💻 Pedro Peixoto
 
 **`Desenvolvedor FullStack`**
 
