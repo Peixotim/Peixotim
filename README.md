@@ -85,6 +85,15 @@ Sou **Pedro De Almeida Peixoto**, mineiro de 18 anos, formado em **Técnico em I
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"
+/>
+
 <br/>
 <br/>
 
