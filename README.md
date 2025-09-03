@@ -93,7 +93,7 @@ Sou **Pedro De Almeida Peixoto**, mineiro de 18 anos, formado em **Técnico em I
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"
 />
-
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 <br/>
 <br/>
 
