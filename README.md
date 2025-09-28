@@ -7,7 +7,7 @@
 
 💻 **Engenheiro de Software em formação** | 🎯 **Apaixonado por tecnologia e inovação**  
 
-Sou **Pedro De Almeida Peixoto**, mineiro de 18 anos, formado em **Técnico em Informática** pela EEAS e atualmente cursando **Engenharia de Software** na Unileste.  
+Sou **Pedro De Almeida Peixoto**, formado em **Técnico em Informática** pela EEAS e atualmente cursando **Engenharia de Software** na Unileste.  
 
 🚀 Desde os 16 anos, mergulho de cabeça no mundo da programação, sempre buscando aprender, criar e compartilhar conhecimento. No meu GitHub, você encontrará desde projetos sólidos até invenções malucas , porque inovar faz parte da jornada!  
 
