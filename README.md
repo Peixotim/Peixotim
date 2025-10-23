@@ -45,7 +45,7 @@ Sou **Pedro De Almeida Peixoto**, formado em **Técnico em Informática** pela E
 
 ### 🤖 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,git,go,docker,java,spring,react,nextjs,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,git,go,docker,java,spring,react,nextjs,nestjsgithub)](https://skillicons.dev)
 <br/>
 <br/>
 
