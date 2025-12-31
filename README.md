@@ -22,7 +22,7 @@ Sou **Pedro De Almeida Peixoto**, formado em **Técnico em Informática** pela E
 💡 Quer trocar ideias ou colaborar em um projeto? Vamos conversar!  
 
 🔗 **GitHub:** [Peixotim](https://github.com/Peixotim)  
-🔗 **Portifolio:** [Peixotim](https://peixotim.website)  
+🔗 **Portifolio:** [Portifolio](https://peixotim.website)  
     [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0096FF?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/peixotim/)
     [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/peixotohub)
     </a> 
